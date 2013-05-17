@@ -1,0 +1,2928 @@
+2013-04-27 02:36:00 Error: [MissingViewException] View file "/Applications/MAMP/htdocs/cakephp-2.3.3/app/View/Themed/Cakestrap/Pages/view.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/MAMP/htdocs/cakephp-2.3.3/app/View/Themed/Cakestrap/Pages/view.ctp',
+)
+Request URL: /pages/view
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/View/View.php(468): View->_getViewFileName('view')
+#1 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(948): View->render('view', NULL)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/app/Controller/PagesController.php(73): Controller->render('view')
+#3 [internal function]: PagesController->display('view')
+#4 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(486): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#6 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-04-27 02:38:18 Error: [MissingViewException] View file "/Applications/MAMP/htdocs/cakephp-2.3.3/app/View/Themed/Cakestrap/Pages/view.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/MAMP/htdocs/cakephp-2.3.3/app/View/Themed/Cakestrap/Pages/view.ctp',
+)
+Request URL: /pages/view
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/View/View.php(468): View->_getViewFileName('view')
+#1 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(948): View->render('view', NULL)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/app/Controller/PagesController.php(73): Controller->render('view')
+#3 [internal function]: PagesController->display('view')
+#4 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(486): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#6 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-04-27 02:38:18 Error: [MissingViewException] View file "/Applications/MAMP/htdocs/cakephp-2.3.3/app/View/Themed/Cakestrap/Pages/view.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/MAMP/htdocs/cakephp-2.3.3/app/View/Themed/Cakestrap/Pages/view.ctp',
+)
+Request URL: /pages/view
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/View/View.php(468): View->_getViewFileName('view')
+#1 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(948): View->render('view', NULL)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/app/Controller/PagesController.php(73): Controller->render('view')
+#3 [internal function]: PagesController->display('view')
+#4 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(486): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#6 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-04-27 02:38:48 Error: [MissingViewException] View file "/Applications/MAMP/htdocs/cakephp-2.3.3/app/View/Themed/Cakestrap/Pages/view.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/MAMP/htdocs/cakephp-2.3.3/app/View/Themed/Cakestrap/Pages/view.ctp',
+)
+Request URL: /pages/view
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/View/View.php(468): View->_getViewFileName('view')
+#1 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(948): View->render('view', NULL)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/app/Controller/PagesController.php(73): Controller->render('view')
+#3 [internal function]: PagesController->display('view')
+#4 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(486): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#6 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2013-04-27 03:33:56 Error: [MissingControllerException] Controller class InventoriesController could not be found.
+Exception Attributes: array (
+  'class' => 'InventoriesController',
+  'plugin' => NULL,
+)
+Request URL: /inventories
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-27 03:34:40 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [2003] Can\'t connect to MySQL server on \'127.0.0.1\' (61)',
+  'enabled' => true,
+)
+Request URL: /Inventory
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Datasource/DboSource.php(262): Mysql->connect()
+#1 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/ConnectionManager.php(107): DboSource->__construct(Array)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(3221): ConnectionManager::getDataSource('default')
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(1108): Model->setDataSource('default')
+#4 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(3243): Model->setSource('inventory')
+#5 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(2696): Model->getDataSource()
+#6 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Component/PaginatorComponent.php(196): Model->find('all', Array)
+#7 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(1074): PaginatorComponent->paginate(NULL, Array, Array)
+#8 /Applications/MAMP/htdocs/cakephp-2.3.3/app/Controller/InventoryController.php(17): Controller->paginate()
+#9 [internal function]: InventoryController->index()
+#10 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(486): ReflectionMethod->invokeArgs(Object(InventoryController), Array)
+#11 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#12 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(InventoryController), Object(CakeRequest), Object(CakeResponse))
+#13 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2013-04-27 03:36:09 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [2003] Can\'t connect to MySQL server on \'127.0.0.1\' (61)',
+  'enabled' => true,
+)
+Request URL: /Inventory
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Datasource/DboSource.php(262): Mysql->connect()
+#1 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/ConnectionManager.php(107): DboSource->__construct(Array)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(3221): ConnectionManager::getDataSource('default')
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(1108): Model->setDataSource('default')
+#4 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(3243): Model->setSource('inventory')
+#5 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(2696): Model->getDataSource()
+#6 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Component/PaginatorComponent.php(196): Model->find('all', Array)
+#7 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(1074): PaginatorComponent->paginate(NULL, Array, Array)
+#8 /Applications/MAMP/htdocs/cakephp-2.3.3/app/Controller/InventoryController.php(17): Controller->paginate()
+#9 [internal function]: InventoryController->index()
+#10 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(486): ReflectionMethod->invokeArgs(Object(InventoryController), Array)
+#11 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#12 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(InventoryController), Object(CakeRequest), Object(CakeResponse))
+#13 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2013-04-27 03:43:47 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [2003] Can\'t connect to MySQL server on \'127.0.0.1\' (61)',
+  'enabled' => true,
+)
+Request URL: /Inventory
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Datasource/DboSource.php(262): Mysql->connect()
+#1 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/ConnectionManager.php(107): DboSource->__construct(Array)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(3221): ConnectionManager::getDataSource('default')
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(1108): Model->setDataSource('default')
+#4 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(3243): Model->setSource('inventory')
+#5 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(2696): Model->getDataSource()
+#6 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Component/PaginatorComponent.php(196): Model->find('all', Array)
+#7 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(1074): PaginatorComponent->paginate(NULL, Array, Array)
+#8 /Applications/MAMP/htdocs/cakephp-2.3.3/app/Controller/InventoryController.php(17): Controller->paginate()
+#9 [internal function]: InventoryController->index()
+#10 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(486): ReflectionMethod->invokeArgs(Object(InventoryController), Array)
+#11 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#12 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(InventoryController), Object(CakeRequest), Object(CakeResponse))
+#13 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2013-04-27 03:44:04 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [2003] Can\'t connect to MySQL server on \'127.0.0.1\' (61)',
+  'enabled' => true,
+)
+Request URL: /Inventory
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Datasource/DboSource.php(262): Mysql->connect()
+#1 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/ConnectionManager.php(107): DboSource->__construct(Array)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(3221): ConnectionManager::getDataSource('default')
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(1108): Model->setDataSource('default')
+#4 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(3243): Model->setSource('inventory')
+#5 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(2696): Model->getDataSource()
+#6 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Component/PaginatorComponent.php(196): Model->find('all', Array)
+#7 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(1074): PaginatorComponent->paginate(NULL, Array, Array)
+#8 /Applications/MAMP/htdocs/cakephp-2.3.3/app/Controller/InventoryController.php(17): Controller->paginate()
+#9 [internal function]: InventoryController->index()
+#10 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(486): ReflectionMethod->invokeArgs(Object(InventoryController), Array)
+#11 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#12 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(InventoryController), Object(CakeRequest), Object(CakeResponse))
+#13 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2013-04-27 03:44:45 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [2003] Can\'t connect to MySQL server on \'127.0.0.1\' (61)',
+  'enabled' => true,
+)
+Request URL: /Inventory
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Datasource/DboSource.php(262): Mysql->connect()
+#1 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/ConnectionManager.php(107): DboSource->__construct(Array)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(3221): ConnectionManager::getDataSource('default')
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(1108): Model->setDataSource('default')
+#4 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(3243): Model->setSource('inventory')
+#5 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(2696): Model->getDataSource()
+#6 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Component/PaginatorComponent.php(196): Model->find('all', Array)
+#7 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(1074): PaginatorComponent->paginate(NULL, Array, Array)
+#8 /Applications/MAMP/htdocs/cakephp-2.3.3/app/Controller/InventoryController.php(17): Controller->paginate()
+#9 [internal function]: InventoryController->index()
+#10 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(486): ReflectionMethod->invokeArgs(Object(InventoryController), Array)
+#11 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#12 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(InventoryController), Object(CakeRequest), Object(CakeResponse))
+#13 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2013-04-27 03:46:21 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [2003] Can\'t connect to MySQL server on \'127.0.0.1\' (61)',
+  'enabled' => true,
+)
+Request URL: /Inventory
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Datasource/DboSource.php(262): Mysql->connect()
+#1 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/ConnectionManager.php(107): DboSource->__construct(Array)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(3221): ConnectionManager::getDataSource('default')
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(1108): Model->setDataSource('default')
+#4 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(3243): Model->setSource('inventory')
+#5 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(2696): Model->getDataSource()
+#6 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Component/PaginatorComponent.php(196): Model->find('all', Array)
+#7 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(1074): PaginatorComponent->paginate(NULL, Array, Array)
+#8 /Applications/MAMP/htdocs/cakephp-2.3.3/app/Controller/InventoryController.php(17): Controller->paginate()
+#9 [internal function]: InventoryController->index()
+#10 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(486): ReflectionMethod->invokeArgs(Object(InventoryController), Array)
+#11 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#12 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(InventoryController), Object(CakeRequest), Object(CakeResponse))
+#13 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2013-04-27 03:46:55 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [2003] Can\'t connect to MySQL server on \'127.0.0.1\' (61)',
+  'enabled' => true,
+)
+Request URL: /Inventory
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Datasource/DboSource.php(262): Mysql->connect()
+#1 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/ConnectionManager.php(107): DboSource->__construct(Array)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(3221): ConnectionManager::getDataSource('default')
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(1108): Model->setDataSource('default')
+#4 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(3243): Model->setSource('inventory')
+#5 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(2696): Model->getDataSource()
+#6 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Component/PaginatorComponent.php(196): Model->find('all', Array)
+#7 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(1074): PaginatorComponent->paginate(NULL, Array, Array)
+#8 /Applications/MAMP/htdocs/cakephp-2.3.3/app/Controller/InventoryController.php(17): Controller->paginate()
+#9 [internal function]: InventoryController->index()
+#10 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(486): ReflectionMethod->invokeArgs(Object(InventoryController), Array)
+#11 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#12 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(InventoryController), Object(CakeRequest), Object(CakeResponse))
+#13 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2013-04-27 04:16:45 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [2003] Can\'t connect to MySQL server on \'127.0.0.1\' (61)',
+  'enabled' => true,
+)
+Request URL: /Inventory
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Datasource/DboSource.php(262): Mysql->connect()
+#1 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/ConnectionManager.php(107): DboSource->__construct(Array)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(3221): ConnectionManager::getDataSource('default')
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(1108): Model->setDataSource('default')
+#4 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(3243): Model->setSource('inventory')
+#5 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(2696): Model->getDataSource()
+#6 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Component/PaginatorComponent.php(196): Model->find('all', Array)
+#7 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(1074): PaginatorComponent->paginate(NULL, Array, Array)
+#8 /Applications/MAMP/htdocs/cakephp-2.3.3/app/Controller/InventoryController.php(17): Controller->paginate()
+#9 [internal function]: InventoryController->index()
+#10 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(486): ReflectionMethod->invokeArgs(Object(InventoryController), Array)
+#11 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#12 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(InventoryController), Object(CakeRequest), Object(CakeResponse))
+#13 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2013-04-27 04:16:48 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [2003] Can\'t connect to MySQL server on \'127.0.0.1\' (61)',
+  'enabled' => true,
+)
+Request URL: /Inventory
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Datasource/DboSource.php(262): Mysql->connect()
+#1 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/ConnectionManager.php(107): DboSource->__construct(Array)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(3221): ConnectionManager::getDataSource('default')
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(1108): Model->setDataSource('default')
+#4 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(3243): Model->setSource('inventory')
+#5 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(2696): Model->getDataSource()
+#6 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Component/PaginatorComponent.php(196): Model->find('all', Array)
+#7 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(1074): PaginatorComponent->paginate(NULL, Array, Array)
+#8 /Applications/MAMP/htdocs/cakephp-2.3.3/app/Controller/InventoryController.php(17): Controller->paginate()
+#9 [internal function]: InventoryController->index()
+#10 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(486): ReflectionMethod->invokeArgs(Object(InventoryController), Array)
+#11 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#12 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(InventoryController), Object(CakeRequest), Object(CakeResponse))
+#13 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2013-04-27 04:16:57 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [2003] Can\'t connect to MySQL server on \'127.0.0.1\' (61)',
+  'enabled' => true,
+)
+Request URL: /Inventory
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Datasource/DboSource.php(262): Mysql->connect()
+#1 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/ConnectionManager.php(107): DboSource->__construct(Array)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(3221): ConnectionManager::getDataSource('default')
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(1108): Model->setDataSource('default')
+#4 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(3243): Model->setSource('inventory')
+#5 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(2696): Model->getDataSource()
+#6 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Component/PaginatorComponent.php(196): Model->find('all', Array)
+#7 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(1074): PaginatorComponent->paginate(NULL, Array, Array)
+#8 /Applications/MAMP/htdocs/cakephp-2.3.3/app/Controller/InventoryController.php(17): Controller->paginate()
+#9 [internal function]: InventoryController->index()
+#10 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(486): ReflectionMethod->invokeArgs(Object(InventoryController), Array)
+#11 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#12 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(InventoryController), Object(CakeRequest), Object(CakeResponse))
+#13 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2013-04-27 04:17:26 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [2003] Can\'t connect to MySQL server on \'127.0.0.1\' (61)',
+  'enabled' => true,
+)
+Request URL: /Inventory
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Datasource/DboSource.php(262): Mysql->connect()
+#1 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/ConnectionManager.php(107): DboSource->__construct(Array)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(3221): ConnectionManager::getDataSource('default')
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(1108): Model->setDataSource('default')
+#4 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(3243): Model->setSource('inventory')
+#5 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(2696): Model->getDataSource()
+#6 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Component/PaginatorComponent.php(196): Model->find('all', Array)
+#7 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(1074): PaginatorComponent->paginate(NULL, Array, Array)
+#8 /Applications/MAMP/htdocs/cakephp-2.3.3/app/Controller/InventoryController.php(17): Controller->paginate()
+#9 [internal function]: InventoryController->index()
+#10 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(486): ReflectionMethod->invokeArgs(Object(InventoryController), Array)
+#11 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#12 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(InventoryController), Object(CakeRequest), Object(CakeResponse))
+#13 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2013-04-27 04:48:50 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [2003] Can\'t connect to MySQL server on \'127.0.0.1\' (61)',
+  'enabled' => true,
+)
+Request URL: /Inventory
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Datasource/DboSource.php(262): Mysql->connect()
+#1 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/ConnectionManager.php(107): DboSource->__construct(Array)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(3221): ConnectionManager::getDataSource('default')
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(1108): Model->setDataSource('default')
+#4 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(3243): Model->setSource('inventory')
+#5 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(2696): Model->getDataSource()
+#6 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Component/PaginatorComponent.php(196): Model->find('all', Array)
+#7 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(1074): PaginatorComponent->paginate(NULL, Array, Array)
+#8 /Applications/MAMP/htdocs/cakephp-2.3.3/app/Controller/InventoryController.php(17): Controller->paginate()
+#9 [internal function]: InventoryController->index()
+#10 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(486): ReflectionMethod->invokeArgs(Object(InventoryController), Array)
+#11 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#12 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(InventoryController), Object(CakeRequest), Object(CakeResponse))
+#13 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2013-04-27 04:48:53 Error: [MissingControllerException] Controller class EventController could not be found.
+Exception Attributes: array (
+  'class' => 'EventController',
+  'plugin' => NULL,
+)
+Request URL: /Event
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-27 04:50:44 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [2003] Can\'t connect to MySQL server on \'127.0.0.1\' (61)',
+  'enabled' => true,
+)
+Request URL: /Inventory
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Datasource/DboSource.php(262): Mysql->connect()
+#1 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/ConnectionManager.php(107): DboSource->__construct(Array)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(3221): ConnectionManager::getDataSource('default')
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(1108): Model->setDataSource('default')
+#4 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(3243): Model->setSource('inventory')
+#5 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(2696): Model->getDataSource()
+#6 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Component/PaginatorComponent.php(196): Model->find('all', Array)
+#7 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(1074): PaginatorComponent->paginate(NULL, Array, Array)
+#8 /Applications/MAMP/htdocs/cakephp-2.3.3/app/Controller/InventoryController.php(17): Controller->paginate()
+#9 [internal function]: InventoryController->index()
+#10 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(486): ReflectionMethod->invokeArgs(Object(InventoryController), Array)
+#11 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#12 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(InventoryController), Object(CakeRequest), Object(CakeResponse))
+#13 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2013-04-27 04:52:22 Error: [MissingControllerException] Controller class <aHref=Controller could not be found.
+Exception Attributes: array (
+  'class' => '<aHref=Controller',
+  'plugin' => NULL,
+)
+Request URL: /%3Ca%20href=
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-27 04:52:51 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [2003] Can\'t connect to MySQL server on \'127.0.0.1\' (61)',
+  'enabled' => true,
+)
+Request URL: /Inventory
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Datasource/DboSource.php(262): Mysql->connect()
+#1 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/ConnectionManager.php(107): DboSource->__construct(Array)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(3221): ConnectionManager::getDataSource('default')
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(1108): Model->setDataSource('default')
+#4 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(3243): Model->setSource('inventory')
+#5 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(2696): Model->getDataSource()
+#6 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Component/PaginatorComponent.php(196): Model->find('all', Array)
+#7 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(1074): PaginatorComponent->paginate(NULL, Array, Array)
+#8 /Applications/MAMP/htdocs/cakephp-2.3.3/app/Controller/InventoryController.php(17): Controller->paginate()
+#9 [internal function]: InventoryController->index()
+#10 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(486): ReflectionMethod->invokeArgs(Object(InventoryController), Array)
+#11 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#12 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(InventoryController), Object(CakeRequest), Object(CakeResponse))
+#13 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2013-04-27 04:54:00 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [2003] Can\'t connect to MySQL server on \'127.0.0.1\' (61)',
+  'enabled' => true,
+)
+Request URL: /Inventory
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Datasource/DboSource.php(262): Mysql->connect()
+#1 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/ConnectionManager.php(107): DboSource->__construct(Array)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(3221): ConnectionManager::getDataSource('default')
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(1108): Model->setDataSource('default')
+#4 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(3243): Model->setSource('inventory')
+#5 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(2696): Model->getDataSource()
+#6 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Component/PaginatorComponent.php(196): Model->find('all', Array)
+#7 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(1074): PaginatorComponent->paginate(NULL, Array, Array)
+#8 /Applications/MAMP/htdocs/cakephp-2.3.3/app/Controller/InventoryController.php(17): Controller->paginate()
+#9 [internal function]: InventoryController->index()
+#10 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(486): ReflectionMethod->invokeArgs(Object(InventoryController), Array)
+#11 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#12 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(InventoryController), Object(CakeRequest), Object(CakeResponse))
+#13 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2013-04-27 04:54:02 Error: [MissingControllerException] Controller class ItemController could not be found.
+Exception Attributes: array (
+  'class' => 'ItemController',
+  'plugin' => NULL,
+)
+Request URL: /Item
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-27 04:54:04 Error: [MissingControllerException] Controller class ScheduleController could not be found.
+Exception Attributes: array (
+  'class' => 'ScheduleController',
+  'plugin' => NULL,
+)
+Request URL: /Schedule
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-27 08:36:05 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [2003] Can\'t connect to MySQL server on \'127.0.0.1\' (61)',
+  'enabled' => true,
+)
+Request URL: /Inventory
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Datasource/DboSource.php(262): Mysql->connect()
+#1 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/ConnectionManager.php(107): DboSource->__construct(Array)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(3221): ConnectionManager::getDataSource('default')
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(1108): Model->setDataSource('default')
+#4 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(3243): Model->setSource('inventory')
+#5 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(2696): Model->getDataSource()
+#6 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Component/PaginatorComponent.php(196): Model->find('all', Array)
+#7 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(1074): PaginatorComponent->paginate(NULL, Array, Array)
+#8 /Applications/MAMP/htdocs/cakephp-2.3.3/app/Controller/InventoryController.php(17): Controller->paginate()
+#9 [internal function]: InventoryController->index()
+#10 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(486): ReflectionMethod->invokeArgs(Object(InventoryController), Array)
+#11 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#12 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(InventoryController), Object(CakeRequest), Object(CakeResponse))
+#13 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2013-04-28 09:47:04 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[HY000] [2003] Can\'t connect to MySQL server on \'127.0.0.1\' (61)',
+  'enabled' => true,
+)
+Request URL: /Inventory
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Datasource/DboSource.php(262): Mysql->connect()
+#1 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/ConnectionManager.php(107): DboSource->__construct(Array)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(3221): ConnectionManager::getDataSource('default')
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(1108): Model->setDataSource('default')
+#4 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(3243): Model->setSource('inventory')
+#5 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(2696): Model->getDataSource()
+#6 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Component/PaginatorComponent.php(196): Model->find('all', Array)
+#7 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(1074): PaginatorComponent->paginate(NULL, Array, Array)
+#8 /Applications/MAMP/htdocs/cakephp-2.3.3/app/Controller/InventoryController.php(17): Controller->paginate()
+#9 [internal function]: InventoryController->index()
+#10 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(486): ReflectionMethod->invokeArgs(Object(InventoryController), Array)
+#11 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#12 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(InventoryController), Object(CakeRequest), Object(CakeResponse))
+#13 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2013-04-28 09:48:10 Error: [MissingControllerException] Controller class EventController could not be found.
+Exception Attributes: array (
+  'class' => 'EventController',
+  'plugin' => NULL,
+)
+Request URL: /Event
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-28 09:48:13 Error: [MissingControllerException] Controller class EventController could not be found.
+Exception Attributes: array (
+  'class' => 'EventController',
+  'plugin' => NULL,
+)
+Request URL: /Event
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-28 09:48:14 Error: [MissingControllerException] Controller class EventController could not be found.
+Exception Attributes: array (
+  'class' => 'EventController',
+  'plugin' => NULL,
+)
+Request URL: /Event
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-28 09:48:20 Error: [MissingControllerException] Controller class EventController could not be found.
+Exception Attributes: array (
+  'class' => 'EventController',
+  'plugin' => NULL,
+)
+Request URL: /Event
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-28 09:48:22 Error: [MissingControllerException] Controller class EventController could not be found.
+Exception Attributes: array (
+  'class' => 'EventController',
+  'plugin' => NULL,
+)
+Request URL: /Event
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-28 09:48:39 Error: [MissingControllerException] Controller class EventController could not be found.
+Exception Attributes: array (
+  'class' => 'EventController',
+  'plugin' => NULL,
+)
+Request URL: /Event
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-28 09:49:16 Error: [MissingControllerException] Controller class EventController could not be found.
+Exception Attributes: array (
+  'class' => 'EventController',
+  'plugin' => NULL,
+)
+Request URL: /Event
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-28 09:49:17 Error: [MissingControllerException] Controller class EventController could not be found.
+Exception Attributes: array (
+  'class' => 'EventController',
+  'plugin' => NULL,
+)
+Request URL: /Event
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-28 09:49:18 Error: [MissingControllerException] Controller class EventController could not be found.
+Exception Attributes: array (
+  'class' => 'EventController',
+  'plugin' => NULL,
+)
+Request URL: /Event
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-28 09:49:18 Error: [MissingControllerException] Controller class EventController could not be found.
+Exception Attributes: array (
+  'class' => 'EventController',
+  'plugin' => NULL,
+)
+Request URL: /Event
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-28 09:49:19 Error: [MissingControllerException] Controller class EventController could not be found.
+Exception Attributes: array (
+  'class' => 'EventController',
+  'plugin' => NULL,
+)
+Request URL: /Event
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-28 09:49:19 Error: [MissingControllerException] Controller class EventController could not be found.
+Exception Attributes: array (
+  'class' => 'EventController',
+  'plugin' => NULL,
+)
+Request URL: /Event
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-28 09:49:19 Error: [MissingControllerException] Controller class EventController could not be found.
+Exception Attributes: array (
+  'class' => 'EventController',
+  'plugin' => NULL,
+)
+Request URL: /Event
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-28 09:49:19 Error: [MissingControllerException] Controller class EventController could not be found.
+Exception Attributes: array (
+  'class' => 'EventController',
+  'plugin' => NULL,
+)
+Request URL: /Event
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-28 09:49:19 Error: [MissingControllerException] Controller class EventController could not be found.
+Exception Attributes: array (
+  'class' => 'EventController',
+  'plugin' => NULL,
+)
+Request URL: /Event
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-28 09:49:37 Error: [MissingControllerException] Controller class EventController could not be found.
+Exception Attributes: array (
+  'class' => 'EventController',
+  'plugin' => NULL,
+)
+Request URL: /Event
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-28 09:49:37 Error: [MissingControllerException] Controller class EventController could not be found.
+Exception Attributes: array (
+  'class' => 'EventController',
+  'plugin' => NULL,
+)
+Request URL: /Event
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-28 09:51:07 Error: [MissingControllerException] Controller class ItemController could not be found.
+Exception Attributes: array (
+  'class' => 'ItemController',
+  'plugin' => NULL,
+)
+Request URL: /Item
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-28 10:48:15 Error: [MissingActionException] Action EventsController::add() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'add',
+)
+Request URL: /events/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-28 10:58:59 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'e_num_males_attend' cannot be null
+Request URL: /events/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('INSERT INTO `IM...', Array)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Datasource/DboSource.php(1008): DboSource->execute('INSERT INTO `IM...')
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(1744): DboSource->create(Object(Event), Array, Array)
+#4 /Applications/MAMP/htdocs/cakephp-2.3.3/app/Controller/EventsController.php(23): Model->save(Array)
+#5 [internal function]: EventsController->add()
+#6 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(486): ReflectionMethod->invokeArgs(Object(EventsController), Array)
+#7 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#8 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#9 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-04-28 11:34:09 Error: [MissingControllerException] Controller class EventController could not be found.
+Exception Attributes: array (
+  'class' => 'EventController',
+  'plugin' => NULL,
+)
+Request URL: /Event
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-28 11:34:16 Error: [MissingControllerException] Controller class EventController could not be found.
+Exception Attributes: array (
+  'class' => 'EventController',
+  'plugin' => NULL,
+)
+Request URL: /Event
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-28 11:50:05 Error: [MissingControllerException] Controller class ItemController could not be found.
+Exception Attributes: array (
+  'class' => 'ItemController',
+  'plugin' => NULL,
+)
+Request URL: /Item
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-28 11:55:53 Error: [MissingActionException] Action PagesController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'PagesController',
+  'action' => 'index',
+)
+Request URL: /Pages
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-28 11:55:58 Error: [MissingActionException] Action PagesController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'PagesController',
+  'action' => 'index',
+)
+Request URL: /Pages
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-28 11:56:10 Error: [MissingActionException] Action PagesController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'PagesController',
+  'action' => 'index',
+)
+Request URL: /Pages
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-04-28 12:14:14 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`IMS`.`inventory`, CONSTRAINT `inventory_ibfk_1` FOREIGN KEY (`inv_primary_sup_id`) REFERENCES `supplier` (`sup_id`))
+Request URL: /Inventory/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('INSERT INTO `IM...', Array)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Datasource/DboSource.php(1008): DboSource->execute('INSERT INTO `IM...')
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(1744): DboSource->create(Object(Inventory), Array, Array)
+#4 /Applications/MAMP/htdocs/cakephp-2.3.3/app/Controller/InventoryController.php(43): Model->save(Array)
+#5 [internal function]: InventoryController->add()
+#6 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(486): ReflectionMethod->invokeArgs(Object(InventoryController), Array)
+#7 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#8 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(InventoryController), Object(CakeRequest), Object(CakeResponse))
+#9 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2013-04-28 12:52:44 Error: Fatal Error (4): syntax error, unexpected '<' in [/Applications/MAMP/htdocs/cakephp-2.3.3/app/View/Inventory/index.ctp, line 57]
+2013-04-28 12:52:44 Error: [FatalErrorException] syntax error, unexpected '<'
+Request URL: /Inventory
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 57)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 57, Array)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 57, Array)
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-28 12:52:45 Error: Fatal Error (4): syntax error, unexpected '<' in [/Applications/MAMP/htdocs/cakephp-2.3.3/app/View/Inventory/index.ctp, line 57]
+2013-04-28 12:52:45 Error: [FatalErrorException] syntax error, unexpected '<'
+Request URL: /Inventory
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 57)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 57, Array)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 57, Array)
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-28 16:59:55 Error: [MissingControllerException] Controller class RecipeController could not be found.
+Exception Attributes: array (
+  'class' => 'RecipeController',
+  'plugin' => NULL,
+)
+Request URL: /Recipe
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-29 07:52:33 Error: [MissingControllerException] Controller class RecipeController could not be found.
+Exception Attributes: array (
+  'class' => 'RecipeController',
+  'plugin' => NULL,
+)
+Request URL: /Recipe
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-29 07:52:35 Error: [MissingControllerException] Controller class RecipeController could not be found.
+Exception Attributes: array (
+  'class' => 'RecipeController',
+  'plugin' => NULL,
+)
+Request URL: /Recipe
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-29 07:55:08 Error: [MissingControllerException] Controller class RecipeController could not be found.
+Exception Attributes: array (
+  'class' => 'RecipeController',
+  'plugin' => NULL,
+)
+Request URL: /Recipe
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-29 07:55:08 Error: [MissingControllerException] Controller class RecipeController could not be found.
+Exception Attributes: array (
+  'class' => 'RecipeController',
+  'plugin' => NULL,
+)
+Request URL: /Recipe
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-29 07:57:18 Error: [MissingControllerException] Controller class ScheduleController could not be found.
+Exception Attributes: array (
+  'class' => 'ScheduleController',
+  'plugin' => NULL,
+)
+Request URL: /Schedule
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-29 09:02:57 Error: [MissingControllerException] Controller class RecipeController could not be found.
+Exception Attributes: array (
+  'class' => 'RecipeController',
+  'plugin' => NULL,
+)
+Request URL: /Recipe
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-29 09:23:07 Error: [MissingControllerException] Controller class RecipeController could not be found.
+Exception Attributes: array (
+  'class' => 'RecipeController',
+  'plugin' => NULL,
+)
+Request URL: /Recipe
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-29 09:33:19 Error: [MissingControllerException] Controller class RecipeController could not be found.
+Exception Attributes: array (
+  'class' => 'RecipeController',
+  'plugin' => NULL,
+)
+Request URL: /Recipe
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-29 09:33:40 Error: [MissingControllerException] Controller class RecipeController could not be found.
+Exception Attributes: array (
+  'class' => 'RecipeController',
+  'plugin' => NULL,
+)
+Request URL: /Recipe
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-29 09:33:40 Error: [MissingControllerException] Controller class RecipeController could not be found.
+Exception Attributes: array (
+  'class' => 'RecipeController',
+  'plugin' => NULL,
+)
+Request URL: /Recipe
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-29 11:07:23 Error: [MissingControllerException] Controller class ItemController could not be found.
+Exception Attributes: array (
+  'class' => 'ItemController',
+  'plugin' => NULL,
+)
+Request URL: /Item
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-29 11:18:04 Error: [MissingControllerException] Controller class RecipeController could not be found.
+Exception Attributes: array (
+  'class' => 'RecipeController',
+  'plugin' => NULL,
+)
+Request URL: /Recipe
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-29 14:57:05 Error: [MissingControllerException] Controller class RecipeController could not be found.
+Exception Attributes: array (
+  'class' => 'RecipeController',
+  'plugin' => NULL,
+)
+Request URL: /Recipe
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-29 14:59:23 Error: [MissingControllerException] Controller class RecipeController could not be found.
+Exception Attributes: array (
+  'class' => 'RecipeController',
+  'plugin' => NULL,
+)
+Request URL: /Recipe
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-29 14:59:24 Error: [MissingControllerException] Controller class ItemController could not be found.
+Exception Attributes: array (
+  'class' => 'ItemController',
+  'plugin' => NULL,
+)
+Request URL: /Item
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-29 14:59:24 Error: [MissingControllerException] Controller class RecipeController could not be found.
+Exception Attributes: array (
+  'class' => 'RecipeController',
+  'plugin' => NULL,
+)
+Request URL: /Recipe
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-29 14:59:25 Error: [MissingControllerException] Controller class ItemController could not be found.
+Exception Attributes: array (
+  'class' => 'ItemController',
+  'plugin' => NULL,
+)
+Request URL: /Item
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-29 14:59:26 Error: [MissingControllerException] Controller class ScheduleController could not be found.
+Exception Attributes: array (
+  'class' => 'ScheduleController',
+  'plugin' => NULL,
+)
+Request URL: /Schedule
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-29 14:59:26 Error: [MissingControllerException] Controller class ItemController could not be found.
+Exception Attributes: array (
+  'class' => 'ItemController',
+  'plugin' => NULL,
+)
+Request URL: /Item
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-29 14:59:27 Error: [MissingControllerException] Controller class ScheduleController could not be found.
+Exception Attributes: array (
+  'class' => 'ScheduleController',
+  'plugin' => NULL,
+)
+Request URL: /Schedule
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-29 14:59:28 Error: [MissingControllerException] Controller class ItemController could not be found.
+Exception Attributes: array (
+  'class' => 'ItemController',
+  'plugin' => NULL,
+)
+Request URL: /Item
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-29 14:59:28 Error: [MissingControllerException] Controller class RecipeController could not be found.
+Exception Attributes: array (
+  'class' => 'RecipeController',
+  'plugin' => NULL,
+)
+Request URL: /Recipe
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-29 15:45:59 Error: [MissingControllerException] Controller class RecipeController could not be found.
+Exception Attributes: array (
+  'class' => 'RecipeController',
+  'plugin' => NULL,
+)
+Request URL: /Recipe
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-29 16:09:48 Error: Fatal Error (4): syntax error, unexpected 'echo' (T_ECHO) in [/Applications/MAMP/htdocs/cakephp-2.3.3/app/View/Themed/Cakestrap/Layouts/default.ctp, line 42]
+2013-04-29 16:09:48 Error: [FatalErrorException] syntax error, unexpected 'echo' (T_ECHO)
+Request URL: /Events
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 42)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 42, Array)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 42, Array)
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-29 16:09:49 Error: Fatal Error (4): syntax error, unexpected 'echo' (T_ECHO) in [/Applications/MAMP/htdocs/cakephp-2.3.3/app/View/Themed/Cakestrap/Layouts/default.ctp, line 42]
+2013-04-29 16:09:49 Error: [FatalErrorException] syntax error, unexpected 'echo' (T_ECHO)
+Request URL: /Events
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 42)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 42, Array)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 42, Array)
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-29 16:25:28 Error: [MissingControllerException] Controller class RecipeController could not be found.
+Exception Attributes: array (
+  'class' => 'RecipeController',
+  'plugin' => NULL,
+)
+Request URL: /Recipe
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-29 16:25:29 Error: [MissingControllerException] Controller class ItemController could not be found.
+Exception Attributes: array (
+  'class' => 'ItemController',
+  'plugin' => NULL,
+)
+Request URL: /Item
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-29 16:25:30 Error: [MissingControllerException] Controller class ItemController could not be found.
+Exception Attributes: array (
+  'class' => 'ItemController',
+  'plugin' => NULL,
+)
+Request URL: /Item
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-29 16:25:30 Error: [MissingControllerException] Controller class ItemController could not be found.
+Exception Attributes: array (
+  'class' => 'ItemController',
+  'plugin' => NULL,
+)
+Request URL: /Item
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-29 16:25:31 Error: [MissingControllerException] Controller class ScheduleController could not be found.
+Exception Attributes: array (
+  'class' => 'ScheduleController',
+  'plugin' => NULL,
+)
+Request URL: /Schedule
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-29 16:25:31 Error: [MissingControllerException] Controller class RecipeController could not be found.
+Exception Attributes: array (
+  'class' => 'RecipeController',
+  'plugin' => NULL,
+)
+Request URL: /Recipe
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-29 16:53:08 Error: [MissingControllerException] Controller class RecipeController could not be found.
+Exception Attributes: array (
+  'class' => 'RecipeController',
+  'plugin' => NULL,
+)
+Request URL: /Recipe
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-29 16:53:09 Error: [MissingControllerException] Controller class ItemController could not be found.
+Exception Attributes: array (
+  'class' => 'ItemController',
+  'plugin' => NULL,
+)
+Request URL: /Item
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-29 16:53:09 Error: [MissingControllerException] Controller class ScheduleController could not be found.
+Exception Attributes: array (
+  'class' => 'ScheduleController',
+  'plugin' => NULL,
+)
+Request URL: /Schedule
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-29 17:29:37 Error: [MissingControllerException] Controller class RecipeController could not be found.
+Exception Attributes: array (
+  'class' => 'RecipeController',
+  'plugin' => NULL,
+)
+Request URL: /Recipe
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-29 17:29:38 Error: [MissingControllerException] Controller class RecipeController could not be found.
+Exception Attributes: array (
+  'class' => 'RecipeController',
+  'plugin' => NULL,
+)
+Request URL: /Recipe
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-29 17:29:38 Error: [MissingControllerException] Controller class RecipeController could not be found.
+Exception Attributes: array (
+  'class' => 'RecipeController',
+  'plugin' => NULL,
+)
+Request URL: /Recipe
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-29 17:29:38 Error: [MissingControllerException] Controller class RecipeController could not be found.
+Exception Attributes: array (
+  'class' => 'RecipeController',
+  'plugin' => NULL,
+)
+Request URL: /Recipe
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-29 17:29:39 Error: [MissingControllerException] Controller class RecipeController could not be found.
+Exception Attributes: array (
+  'class' => 'RecipeController',
+  'plugin' => NULL,
+)
+Request URL: /Recipe
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-29 17:29:41 Error: [MissingControllerException] Controller class RecipeController could not be found.
+Exception Attributes: array (
+  'class' => 'RecipeController',
+  'plugin' => NULL,
+)
+Request URL: /Recipe
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-29 17:29:42 Error: [MissingControllerException] Controller class ScheduleController could not be found.
+Exception Attributes: array (
+  'class' => 'ScheduleController',
+  'plugin' => NULL,
+)
+Request URL: /Schedule
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-29 17:29:42 Error: [MissingControllerException] Controller class ItemController could not be found.
+Exception Attributes: array (
+  'class' => 'ItemController',
+  'plugin' => NULL,
+)
+Request URL: /Item
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-29 17:29:43 Error: [MissingControllerException] Controller class RecipeController could not be found.
+Exception Attributes: array (
+  'class' => 'RecipeController',
+  'plugin' => NULL,
+)
+Request URL: /Recipe
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-29 17:29:43 Error: [MissingControllerException] Controller class ScheduleController could not be found.
+Exception Attributes: array (
+  'class' => 'ScheduleController',
+  'plugin' => NULL,
+)
+Request URL: /Schedule
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-29 17:29:44 Error: [MissingControllerException] Controller class RecipeController could not be found.
+Exception Attributes: array (
+  'class' => 'RecipeController',
+  'plugin' => NULL,
+)
+Request URL: /Recipe
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-29 17:29:46 Error: [MissingControllerException] Controller class RecipeController could not be found.
+Exception Attributes: array (
+  'class' => 'RecipeController',
+  'plugin' => NULL,
+)
+Request URL: /Recipe
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-29 17:30:37 Error: [MissingControllerException] Controller class RecipeController could not be found.
+Exception Attributes: array (
+  'class' => 'RecipeController',
+  'plugin' => NULL,
+)
+Request URL: /Recipe
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-29 17:30:38 Error: Fatal Error (1): Call to a member function image() on a non-object in [/Applications/MAMP/htdocs/cakephp-2.3.3/app/Controller/RecipesController.php, line 14]
+2013-04-29 17:30:38 Error: [FatalErrorException] Call to a member function image() on a non-object
+Request URL: /Recipes
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/M...', 14)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/M...', 14, Array)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/M...', 14, Array)
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-29 17:30:39 Error: Fatal Error (1): Call to a member function image() on a non-object in [/Applications/MAMP/htdocs/cakephp-2.3.3/app/Controller/RecipesController.php, line 14]
+2013-04-29 17:30:39 Error: [FatalErrorException] Call to a member function image() on a non-object
+Request URL: /Recipes
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/M...', 14)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/M...', 14, Array)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/M...', 14, Array)
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-29 17:30:41 Error: Fatal Error (1): Call to a member function image() on a non-object in [/Applications/MAMP/htdocs/cakephp-2.3.3/app/Controller/RecipesController.php, line 14]
+2013-04-29 17:30:41 Error: [FatalErrorException] Call to a member function image() on a non-object
+Request URL: /Recipes
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/M...', 14)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/M...', 14, Array)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/M...', 14, Array)
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-29 17:30:41 Error: Fatal Error (1): Call to a member function image() on a non-object in [/Applications/MAMP/htdocs/cakephp-2.3.3/app/Controller/RecipesController.php, line 14]
+2013-04-29 17:30:41 Error: [FatalErrorException] Call to a member function image() on a non-object
+Request URL: /Recipes
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/M...', 14)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/M...', 14, Array)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/M...', 14, Array)
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-29 17:31:31 Error: Fatal Error (1): Call to a member function image() on a non-object in [/Applications/MAMP/htdocs/cakephp-2.3.3/app/Controller/RecipesController.php, line 14]
+2013-04-29 17:31:31 Error: [FatalErrorException] Call to a member function image() on a non-object
+Request URL: /Recipes
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/M...', 14)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/M...', 14, Array)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/M...', 14, Array)
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-29 17:31:32 Error: Fatal Error (1): Call to a member function image() on a non-object in [/Applications/MAMP/htdocs/cakephp-2.3.3/app/Controller/RecipesController.php, line 14]
+2013-04-29 17:31:32 Error: [FatalErrorException] Call to a member function image() on a non-object
+Request URL: /Recipes
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/M...', 14)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/M...', 14, Array)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/M...', 14, Array)
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-29 17:31:32 Error: Fatal Error (1): Call to a member function image() on a non-object in [/Applications/MAMP/htdocs/cakephp-2.3.3/app/Controller/RecipesController.php, line 14]
+2013-04-29 17:31:32 Error: [FatalErrorException] Call to a member function image() on a non-object
+Request URL: /Recipes
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/M...', 14)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/M...', 14, Array)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/M...', 14, Array)
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-29 17:31:34 Error: Fatal Error (1): Call to a member function image() on a non-object in [/Applications/MAMP/htdocs/cakephp-2.3.3/app/Controller/RecipesController.php, line 14]
+2013-04-29 17:31:34 Error: [FatalErrorException] Call to a member function image() on a non-object
+Request URL: /Recipes
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/M...', 14)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/M...', 14, Array)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/M...', 14, Array)
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-29 17:31:34 Error: Fatal Error (1): Call to a member function image() on a non-object in [/Applications/MAMP/htdocs/cakephp-2.3.3/app/Controller/RecipesController.php, line 14]
+2013-04-29 17:31:34 Error: [FatalErrorException] Call to a member function image() on a non-object
+Request URL: /Recipes
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/M...', 14)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/M...', 14, Array)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/M...', 14, Array)
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-29 17:31:34 Error: Fatal Error (1): Call to a member function image() on a non-object in [/Applications/MAMP/htdocs/cakephp-2.3.3/app/Controller/RecipesController.php, line 14]
+2013-04-29 17:31:34 Error: [FatalErrorException] Call to a member function image() on a non-object
+Request URL: /Recipes
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/M...', 14)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/M...', 14, Array)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/M...', 14, Array)
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-29 17:31:46 Error: [MissingViewException] View file "/Applications/MAMP/htdocs/cakephp-2.3.3/app/View/Themed/Cakestrap/Recipes/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/MAMP/htdocs/cakephp-2.3.3/app/View/Themed/Cakestrap/Recipes/index.ctp',
+)
+Request URL: /Recipes
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(948): View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#4 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-04-29 17:31:47 Error: [MissingViewException] View file "/Applications/MAMP/htdocs/cakephp-2.3.3/app/View/Themed/Cakestrap/Recipes/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/MAMP/htdocs/cakephp-2.3.3/app/View/Themed/Cakestrap/Recipes/index.ctp',
+)
+Request URL: /Recipes
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(948): View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#4 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-04-29 17:31:50 Error: [MissingViewException] View file "/Applications/MAMP/htdocs/cakephp-2.3.3/app/View/Themed/Cakestrap/Recipes/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/MAMP/htdocs/cakephp-2.3.3/app/View/Themed/Cakestrap/Recipes/index.ctp',
+)
+Request URL: /Recipes
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(948): View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#4 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-04-29 17:32:49 Error: [MissingViewException] View file "/Applications/MAMP/htdocs/cakephp-2.3.3/app/View/Themed/Cakestrap/Recipes/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/MAMP/htdocs/cakephp-2.3.3/app/View/Themed/Cakestrap/Recipes/index.ctp',
+)
+Request URL: /Recipes
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(948): View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#4 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-04-29 17:32:49 Error: [MissingViewException] View file "/Applications/MAMP/htdocs/cakephp-2.3.3/app/View/Themed/Cakestrap/Recipes/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/MAMP/htdocs/cakephp-2.3.3/app/View/Themed/Cakestrap/Recipes/index.ctp',
+)
+Request URL: /Recipes
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(948): View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#4 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-04-29 17:32:50 Error: [MissingViewException] View file "/Applications/MAMP/htdocs/cakephp-2.3.3/app/View/Themed/Cakestrap/Recipes/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/MAMP/htdocs/cakephp-2.3.3/app/View/Themed/Cakestrap/Recipes/index.ctp',
+)
+Request URL: /Recipes
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(948): View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#4 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-04-29 17:32:50 Error: [MissingViewException] View file "/Applications/MAMP/htdocs/cakephp-2.3.3/app/View/Themed/Cakestrap/Recipes/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/MAMP/htdocs/cakephp-2.3.3/app/View/Themed/Cakestrap/Recipes/index.ctp',
+)
+Request URL: /Recipes
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(948): View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#4 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-04-29 17:32:50 Error: [MissingViewException] View file "/Applications/MAMP/htdocs/cakephp-2.3.3/app/View/Themed/Cakestrap/Recipes/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/MAMP/htdocs/cakephp-2.3.3/app/View/Themed/Cakestrap/Recipes/index.ctp',
+)
+Request URL: /Recipes
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(948): View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#4 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-04-29 17:32:51 Error: [MissingViewException] View file "/Applications/MAMP/htdocs/cakephp-2.3.3/app/View/Themed/Cakestrap/Recipes/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/MAMP/htdocs/cakephp-2.3.3/app/View/Themed/Cakestrap/Recipes/index.ctp',
+)
+Request URL: /Recipes
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(948): View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#4 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-04-29 17:32:52 Error: [MissingViewException] View file "/Applications/MAMP/htdocs/cakephp-2.3.3/app/View/Themed/Cakestrap/Recipes/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/MAMP/htdocs/cakephp-2.3.3/app/View/Themed/Cakestrap/Recipes/index.ctp',
+)
+Request URL: /Recipes
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(948): View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#4 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-04-29 17:32:52 Error: [MissingViewException] View file "/Applications/MAMP/htdocs/cakephp-2.3.3/app/View/Themed/Cakestrap/Recipes/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/MAMP/htdocs/cakephp-2.3.3/app/View/Themed/Cakestrap/Recipes/index.ctp',
+)
+Request URL: /Recipes
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(948): View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#4 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-04-29 17:32:52 Error: [MissingViewException] View file "/Applications/MAMP/htdocs/cakephp-2.3.3/app/View/Themed/Cakestrap/Recipes/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/MAMP/htdocs/cakephp-2.3.3/app/View/Themed/Cakestrap/Recipes/index.ctp',
+)
+Request URL: /Recipes
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(948): View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#4 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-04-29 17:39:45 Error: Fatal Error (1): Call to a member function connect() on a non-object in [/Applications/MAMP/htdocs/cakephp-2.3.3/app/Controller/RecipesController.php, line 14]
+2013-04-29 17:39:45 Error: [FatalErrorException] Call to a member function connect() on a non-object
+Request URL: /Recipes
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/M...', 14)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/M...', 14, Array)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/M...', 14, Array)
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-29 17:39:46 Error: Fatal Error (1): Call to a member function connect() on a non-object in [/Applications/MAMP/htdocs/cakephp-2.3.3/app/Controller/RecipesController.php, line 14]
+2013-04-29 17:39:46 Error: [FatalErrorException] Call to a member function connect() on a non-object
+Request URL: /Recipes
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/M...', 14)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/M...', 14, Array)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/M...', 14, Array)
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-29 17:40:24 Error: Fatal Error (1): Call to a member function image() on a non-object in [/Applications/MAMP/htdocs/cakephp-2.3.3/app/Controller/RecipesController.php, line 14]
+2013-04-29 17:40:24 Error: [FatalErrorException] Call to a member function image() on a non-object
+Request URL: /Recipes
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/M...', 14)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/M...', 14, Array)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/M...', 14, Array)
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-29 17:40:25 Error: Fatal Error (1): Call to a member function image() on a non-object in [/Applications/MAMP/htdocs/cakephp-2.3.3/app/Controller/RecipesController.php, line 14]
+2013-04-29 17:40:25 Error: [FatalErrorException] Call to a member function image() on a non-object
+Request URL: /Recipes
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/M...', 14)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/M...', 14, Array)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/M...', 14, Array)
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-29 17:40:38 Error: [MissingViewException] View file "/Applications/MAMP/htdocs/cakephp-2.3.3/app/View/Themed/Cakestrap/Recipes/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/MAMP/htdocs/cakephp-2.3.3/app/View/Themed/Cakestrap/Recipes/index.ctp',
+)
+Request URL: /Recipes
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(948): View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#4 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-04-29 17:40:38 Error: [MissingViewException] View file "/Applications/MAMP/htdocs/cakephp-2.3.3/app/View/Themed/Cakestrap/Recipes/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/MAMP/htdocs/cakephp-2.3.3/app/View/Themed/Cakestrap/Recipes/index.ctp',
+)
+Request URL: /Recipes
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(948): View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#4 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-04-30 06:09:21 Error: [MissingViewException] View file "/Applications/MAMP/htdocs/cakephp-2.3.3/app/View/Themed/Cakestrap/Recipes/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/MAMP/htdocs/cakephp-2.3.3/app/View/Themed/Cakestrap/Recipes/index.ctp',
+)
+Request URL: /Recipes
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(948): View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#4 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-04-30 06:10:57 Error: [MissingViewException] View file "/Applications/MAMP/htdocs/cakephp-2.3.3/app/View/Themed/Cakestrap/UnderConstruction/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/MAMP/htdocs/cakephp-2.3.3/app/View/Themed/Cakestrap/UnderConstruction/index.ctp',
+)
+Request URL: /Recipes
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(948): View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#4 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-04-30 06:10:57 Error: [MissingViewException] View file "/Applications/MAMP/htdocs/cakephp-2.3.3/app/View/Themed/Cakestrap/UnderConstruction/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/MAMP/htdocs/cakephp-2.3.3/app/View/Themed/Cakestrap/UnderConstruction/index.ctp',
+)
+Request URL: /Recipes
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(948): View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#4 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-04-30 06:10:58 Error: [MissingViewException] View file "/Applications/MAMP/htdocs/cakephp-2.3.3/app/View/Themed/Cakestrap/UnderConstruction/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/MAMP/htdocs/cakephp-2.3.3/app/View/Themed/Cakestrap/UnderConstruction/index.ctp',
+)
+Request URL: /Recipes
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(948): View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#4 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-04-30 06:10:58 Error: [MissingViewException] View file "/Applications/MAMP/htdocs/cakephp-2.3.3/app/View/Themed/Cakestrap/UnderConstruction/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/MAMP/htdocs/cakephp-2.3.3/app/View/Themed/Cakestrap/UnderConstruction/index.ctp',
+)
+Request URL: /Recipes
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(948): View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#4 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-04-30 06:17:49 Error: [MissingViewException] View file "/Applications/MAMP/htdocs/cakephp-2.3.3/app/View/Themed/Cakestrap/UnderConstruction/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/MAMP/htdocs/cakephp-2.3.3/app/View/Themed/Cakestrap/UnderConstruction/index.ctp',
+)
+Request URL: /Recipes
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(948): View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#4 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-04-30 06:17:50 Error: [MissingViewException] View file "/Applications/MAMP/htdocs/cakephp-2.3.3/app/View/Themed/Cakestrap/UnderConstruction/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/MAMP/htdocs/cakephp-2.3.3/app/View/Themed/Cakestrap/UnderConstruction/index.ctp',
+)
+Request URL: /Recipes
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(948): View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#4 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-04-30 06:17:51 Error: [MissingViewException] View file "/Applications/MAMP/htdocs/cakephp-2.3.3/app/View/Themed/Cakestrap/UnderConstruction/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/MAMP/htdocs/cakephp-2.3.3/app/View/Themed/Cakestrap/UnderConstruction/index.ctp',
+)
+Request URL: /Recipes
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(948): View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#4 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-04-30 06:17:51 Error: [MissingViewException] View file "/Applications/MAMP/htdocs/cakephp-2.3.3/app/View/Themed/Cakestrap/UnderConstruction/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/MAMP/htdocs/cakephp-2.3.3/app/View/Themed/Cakestrap/UnderConstruction/index.ctp',
+)
+Request URL: /Recipes
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(948): View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#4 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-04-30 08:04:59 Error: [MissingViewException] View file "/Applications/MAMP/htdocs/cakephp-2.3.3/app/View/Themed/Cakestrap/UnderConstruction/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/MAMP/htdocs/cakephp-2.3.3/app/View/Themed/Cakestrap/UnderConstruction/index.ctp',
+)
+Request URL: /Recipes
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(948): View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#4 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-04-30 08:04:59 Error: [MissingViewException] View file "/Applications/MAMP/htdocs/cakephp-2.3.3/app/View/Themed/Cakestrap/UnderConstruction/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/MAMP/htdocs/cakephp-2.3.3/app/View/Themed/Cakestrap/UnderConstruction/index.ctp',
+)
+Request URL: /Recipes
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(948): View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#4 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-04-30 08:05:01 Error: [MissingViewException] View file "/Applications/MAMP/htdocs/cakephp-2.3.3/app/View/Themed/Cakestrap/UnderConstruction/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/MAMP/htdocs/cakephp-2.3.3/app/View/Themed/Cakestrap/UnderConstruction/index.ctp',
+)
+Request URL: /Recipes
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(948): View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#4 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-04-30 08:05:02 Error: [MissingViewException] View file "/Applications/MAMP/htdocs/cakephp-2.3.3/app/View/Themed/Cakestrap/UnderConstruction/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/MAMP/htdocs/cakephp-2.3.3/app/View/Themed/Cakestrap/UnderConstruction/index.ctp',
+)
+Request URL: /Recipes
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(948): View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#4 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-04-30 08:05:03 Error: [MissingViewException] View file "/Applications/MAMP/htdocs/cakephp-2.3.3/app/View/Themed/Cakestrap/UnderConstruction/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Applications/MAMP/htdocs/cakephp-2.3.3/app/View/Themed/Cakestrap/UnderConstruction/index.ctp',
+)
+Request URL: /Recipes
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(948): View->render(NULL, NULL)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(194): Controller->render()
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(RecipesController), Object(CakeRequest), Object(CakeResponse))
+#4 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2013-04-30 08:09:16 Error: [MissingControllerException] Controller class WebrootController could not be found.
+Exception Attributes: array (
+  'class' => 'WebrootController',
+  'plugin' => NULL,
+)
+Request URL: /webroot/img/UCW.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-30 08:09:17 Error: [MissingControllerException] Controller class WebrootController could not be found.
+Exception Attributes: array (
+  'class' => 'WebrootController',
+  'plugin' => NULL,
+)
+Request URL: /webroot/img/UCW.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-30 09:53:16 Error: [MissingControllerException] Controller class WebrootController could not be found.
+Exception Attributes: array (
+  'class' => 'WebrootController',
+  'plugin' => NULL,
+)
+Request URL: /webroot/img/UCW.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-30 09:53:38 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/UCW.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-30 09:53:38 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/UCW.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-30 09:54:14 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/UCW.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-30 09:54:14 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/UCW.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-30 09:54:15 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/UCW.jpg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-30 10:12:32 Error: [MissingControllerException] Controller class ItemController could not be found.
+Exception Attributes: array (
+  'class' => 'ItemController',
+  'plugin' => NULL,
+)
+Request URL: /Item
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-30 11:11:06 Error: [MissingControllerException] Controller class ItemController could not be found.
+Exception Attributes: array (
+  'class' => 'ItemController',
+  'plugin' => NULL,
+)
+Request URL: /Item
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-30 11:11:06 Error: [MissingControllerException] Controller class ItemController could not be found.
+Exception Attributes: array (
+  'class' => 'ItemController',
+  'plugin' => NULL,
+)
+Request URL: /Item
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-30 11:11:09 Error: [MissingControllerException] Controller class ItemController could not be found.
+Exception Attributes: array (
+  'class' => 'ItemController',
+  'plugin' => NULL,
+)
+Request URL: /Item
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-30 11:12:00 Error: [MissingControllerException] Controller class RecipeController could not be found.
+Exception Attributes: array (
+  'class' => 'RecipeController',
+  'plugin' => NULL,
+)
+Request URL: /Recipe
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-30 11:12:55 Error: [MissingControllerException] Controller class ItemController could not be found.
+Exception Attributes: array (
+  'class' => 'ItemController',
+  'plugin' => NULL,
+)
+Request URL: /Item
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-30 11:13:17 Error: [MissingControllerException] Controller class ItemController could not be found.
+Exception Attributes: array (
+  'class' => 'ItemController',
+  'plugin' => NULL,
+)
+Request URL: /Item
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-30 11:13:17 Error: [MissingControllerException] Controller class ItemController could not be found.
+Exception Attributes: array (
+  'class' => 'ItemController',
+  'plugin' => NULL,
+)
+Request URL: /Item
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-30 11:13:18 Error: [MissingControllerException] Controller class ItemController could not be found.
+Exception Attributes: array (
+  'class' => 'ItemController',
+  'plugin' => NULL,
+)
+Request URL: /Item
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-30 11:17:32 Error: [MissingControllerException] Controller class ScheduleController could not be found.
+Exception Attributes: array (
+  'class' => 'ScheduleController',
+  'plugin' => NULL,
+)
+Request URL: /Schedule
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-30 16:15:29 Error: [MissingTableException] Table event_categories for model EventCategory was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'event_categories',
+  'class' => 'EventCategory',
+  'ds' => 'default',
+)
+Request URL: /Events
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(3243): Model->setSource('event_categorie...')
+#1 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Datasource/DboSource.php(1067): Model->getDataSource()
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(2696): DboSource->read(Object(Event), Array)
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/app/Controller/EventsController.php(17): Model->find('all', Array)
+#4 [internal function]: EventsController->index()
+#5 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(486): ReflectionMethod->invokeArgs(Object(EventsController), Array)
+#6 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#7 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#8 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2013-04-30 16:15:37 Error: [MissingTableException] Table event_categories for model EventCategory was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'event_categories',
+  'class' => 'EventCategory',
+  'ds' => 'default',
+)
+Request URL: /Events
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(3243): Model->setSource('event_categorie...')
+#1 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Datasource/DboSource.php(1067): Model->getDataSource()
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(2696): DboSource->read(Object(Event), Array)
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/app/Controller/EventsController.php(17): Model->find('all', Array)
+#4 [internal function]: EventsController->index()
+#5 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(486): ReflectionMethod->invokeArgs(Object(EventsController), Array)
+#6 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#7 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#8 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2013-04-30 19:06:18 Error: [MethodNotAllowedException] Method Not Allowed
+Request URL: /items/delete/3
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/Controller/ItemsController.php(91): CakeRequest->onlyAllow('post', 'delete')
+#1 [internal function]: ItemsController->delete('3')
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(486): ReflectionMethod->invokeArgs(Object(ItemsController), Array)
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#4 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest), Object(CakeResponse))
+#5 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2013-04-30 19:14:51 Error: [MethodNotAllowedException] Method Not Allowed
+Request URL: /items/delete/3
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/Controller/ItemsController.php(91): CakeRequest->onlyAllow('post', 'delete')
+#1 [internal function]: ItemsController->delete('3')
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(486): ReflectionMethod->invokeArgs(Object(ItemsController), Array)
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#4 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest), Object(CakeResponse))
+#5 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2013-04-30 19:15:18 Error: [MethodNotAllowedException] Method Not Allowed
+Request URL: /items/delete/3
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/Controller/ItemsController.php(91): CakeRequest->onlyAllow('post', 'delete')
+#1 [internal function]: ItemsController->delete('3')
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(486): ReflectionMethod->invokeArgs(Object(ItemsController), Array)
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#4 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest), Object(CakeResponse))
+#5 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2013-05-07 14:31:36 Error: Fatal Error (4): syntax error, unexpected ''on'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in [/Applications/MAMP/htdocs/cakephp-2.3.3/app/Model/Item.php, line 44]
+2013-05-07 14:31:36 Error: [FatalErrorException] syntax error, unexpected ''on'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+Request URL: /Items
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 44)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 44, Array)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 44, Array)
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-05-07 14:31:38 Error: Fatal Error (4): syntax error, unexpected ''on'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in [/Applications/MAMP/htdocs/cakephp-2.3.3/app/Model/Item.php, line 44]
+2013-05-07 14:31:38 Error: [FatalErrorException] syntax error, unexpected ''on'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+Request URL: /Items
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 44)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 44, Array)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 44, Array)
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-05-07 14:31:38 Error: Fatal Error (4): syntax error, unexpected ''on'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in [/Applications/MAMP/htdocs/cakephp-2.3.3/app/Model/Item.php, line 44]
+2013-05-07 14:31:38 Error: [FatalErrorException] syntax error, unexpected ''on'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+Request URL: /Items
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 44)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 44, Array)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 44, Array)
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-05-07 14:31:39 Error: Fatal Error (4): syntax error, unexpected ''on'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in [/Applications/MAMP/htdocs/cakephp-2.3.3/app/Model/Item.php, line 44]
+2013-05-07 14:31:39 Error: [FatalErrorException] syntax error, unexpected ''on'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+Request URL: /Items
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 44)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 44, Array)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 44, Array)
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-05-07 14:31:40 Error: Fatal Error (4): syntax error, unexpected ''on'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in [/Applications/MAMP/htdocs/cakephp-2.3.3/app/Model/Item.php, line 44]
+2013-05-07 14:31:40 Error: [FatalErrorException] syntax error, unexpected ''on'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+Request URL: /Items
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 44)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 44, Array)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 44, Array)
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-05-08 09:21:21 Error: Fatal Error (1): Call to a member function find() on a non-object in [/Applications/MAMP/htdocs/cakephp-2.3.3/app/Controller/EventsController.php, line 25]
+2013-05-08 09:21:21 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /events/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/M...', 25)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/M...', 25, Array)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/M...', 25, Array)
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-05-08 09:21:22 Error: Fatal Error (1): Call to a member function find() on a non-object in [/Applications/MAMP/htdocs/cakephp-2.3.3/app/Controller/EventsController.php, line 25]
+2013-05-08 09:21:22 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /events/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/M...', 25)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/M...', 25, Array)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/M...', 25, Array)
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-05-08 09:21:25 Error: Fatal Error (1): Call to a member function find() on a non-object in [/Applications/MAMP/htdocs/cakephp-2.3.3/app/Controller/EventsController.php, line 25]
+2013-05-08 09:21:25 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /events/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/M...', 25)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/M...', 25, Array)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/M...', 25, Array)
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-05-08 09:21:44 Error: Fatal Error (1): Call to a member function find() on a non-object in [/Applications/MAMP/htdocs/cakephp-2.3.3/app/Controller/EventsController.php, line 25]
+2013-05-08 09:21:44 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /events/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/M...', 25)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/M...', 25, Array)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/M...', 25, Array)
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-05-08 09:21:45 Error: Fatal Error (1): Call to a member function find() on a non-object in [/Applications/MAMP/htdocs/cakephp-2.3.3/app/Controller/EventsController.php, line 25]
+2013-05-08 09:21:45 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /events/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/M...', 25)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/M...', 25, Array)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/M...', 25, Array)
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-05-08 09:21:45 Error: Fatal Error (1): Call to a member function find() on a non-object in [/Applications/MAMP/htdocs/cakephp-2.3.3/app/Controller/EventsController.php, line 25]
+2013-05-08 09:21:45 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /events/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/M...', 25)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/M...', 25, Array)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/M...', 25, Array)
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-05-08 09:21:47 Error: Fatal Error (1): Call to a member function find() on a non-object in [/Applications/MAMP/htdocs/cakephp-2.3.3/app/Controller/EventsController.php, line 25]
+2013-05-08 09:21:47 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /events/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/M...', 25)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/M...', 25, Array)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/M...', 25, Array)
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-05-08 09:21:57 Error: Fatal Error (1): Call to a member function find() on a non-object in [/Applications/MAMP/htdocs/cakephp-2.3.3/app/Controller/EventsController.php, line 25]
+2013-05-08 09:21:57 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /events/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/M...', 25)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/M...', 25, Array)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/M...', 25, Array)
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-05-08 09:21:58 Error: Fatal Error (1): Call to a member function find() on a non-object in [/Applications/MAMP/htdocs/cakephp-2.3.3/app/Controller/EventsController.php, line 25]
+2013-05-08 09:21:58 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /events/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/M...', 25)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/M...', 25, Array)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/M...', 25, Array)
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-05-08 09:22:00 Error: Fatal Error (1): Call to a member function find() on a non-object in [/Applications/MAMP/htdocs/cakephp-2.3.3/app/Controller/EventsController.php, line 25]
+2013-05-08 09:22:00 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /events/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Error/ErrorHandler.php(184): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Applications/M...', 25)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Applications/M...', 25, Array)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Applications/M...', 25, Array)
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-05-08 09:22:55 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'EventCategory.id' in 'field list'
+Request URL: /events/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('SELECT `EventCa...', Array)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Datasource/DboSource.php(670): DboSource->execute('SELECT `EventCa...', Array, Array)
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Datasource/DboSource.php(1081): DboSource->fetchAll('SELECT `EventCa...', false)
+#4 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(2696): DboSource->read(Object(EventCategory), Array)
+#5 /Applications/MAMP/htdocs/cakephp-2.3.3/app/Controller/EventsController.php(25): Model->find('list', Array)
+#6 [internal function]: EventsController->add()
+#7 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(486): ReflectionMethod->invokeArgs(Object(EventsController), Array)
+#8 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#9 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#10 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2013-05-08 09:23:30 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'EventCategory.id' in 'field list'
+Request URL: /events/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('SELECT `EventCa...', Array)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Datasource/DboSource.php(670): DboSource->execute('SELECT `EventCa...', Array, Array)
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Datasource/DboSource.php(1081): DboSource->fetchAll('SELECT `EventCa...', false)
+#4 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(2696): DboSource->read(Object(EventCategory), Array)
+#5 /Applications/MAMP/htdocs/cakephp-2.3.3/app/Controller/EventsController.php(25): Model->find('list', Array)
+#6 [internal function]: EventsController->add()
+#7 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(486): ReflectionMethod->invokeArgs(Object(EventsController), Array)
+#8 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#9 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#10 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2013-05-08 09:24:45 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'EventCategory.id' in 'field list'
+Request URL: /events/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('SELECT `EventCa...', Array)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Datasource/DboSource.php(670): DboSource->execute('SELECT `EventCa...', Array, Array)
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Datasource/DboSource.php(1081): DboSource->fetchAll('SELECT `EventCa...', false)
+#4 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(2696): DboSource->read(Object(EventCategory), Array)
+#5 /Applications/MAMP/htdocs/cakephp-2.3.3/app/Controller/EventsController.php(26): Model->find('list')
+#6 [internal function]: EventsController->add()
+#7 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(486): ReflectionMethod->invokeArgs(Object(EventsController), Array)
+#8 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#9 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#10 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2013-05-08 09:24:46 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'EventCategory.id' in 'field list'
+Request URL: /events/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('SELECT `EventCa...', Array)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Datasource/DboSource.php(670): DboSource->execute('SELECT `EventCa...', Array, Array)
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Datasource/DboSource.php(1081): DboSource->fetchAll('SELECT `EventCa...', false)
+#4 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(2696): DboSource->read(Object(EventCategory), Array)
+#5 /Applications/MAMP/htdocs/cakephp-2.3.3/app/Controller/EventsController.php(26): Model->find('list')
+#6 [internal function]: EventsController->add()
+#7 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(486): ReflectionMethod->invokeArgs(Object(EventsController), Array)
+#8 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#9 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#10 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2013-05-08 09:24:46 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'EventCategory.id' in 'field list'
+Request URL: /events/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('SELECT `EventCa...', Array)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Datasource/DboSource.php(670): DboSource->execute('SELECT `EventCa...', Array, Array)
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Datasource/DboSource.php(1081): DboSource->fetchAll('SELECT `EventCa...', false)
+#4 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(2696): DboSource->read(Object(EventCategory), Array)
+#5 /Applications/MAMP/htdocs/cakephp-2.3.3/app/Controller/EventsController.php(26): Model->find('list')
+#6 [internal function]: EventsController->add()
+#7 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(486): ReflectionMethod->invokeArgs(Object(EventsController), Array)
+#8 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#9 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#10 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2013-05-08 09:26:35 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'EventCategory.id' in 'field list'
+Request URL: /events/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('SELECT `EventCa...', Array)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Datasource/DboSource.php(670): DboSource->execute('SELECT `EventCa...', Array, Array)
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Datasource/DboSource.php(1081): DboSource->fetchAll('SELECT `EventCa...', false)
+#4 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(2696): DboSource->read(Object(EventCategory), Array)
+#5 /Applications/MAMP/htdocs/cakephp-2.3.3/app/Controller/EventsController.php(26): Model->find('list')
+#6 [internal function]: EventsController->add()
+#7 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(486): ReflectionMethod->invokeArgs(Object(EventsController), Array)
+#8 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#9 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#10 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2013-05-08 09:28:05 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'EventCategory.id' in 'field list'
+Request URL: /events/add
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('SELECT `EventCa...', Array)
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Datasource/DboSource.php(670): DboSource->execute('SELECT `EventCa...', Array, Array)
+#3 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Datasource/DboSource.php(1081): DboSource->fetchAll('SELECT `EventCa...', false)
+#4 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Model/Model.php(2696): DboSource->read(Object(EventCategory), Array)
+#5 /Applications/MAMP/htdocs/cakephp-2.3.3/app/Controller/EventsController.php(26): Model->find('list')
+#6 [internal function]: EventsController->add()
+#7 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Controller/Controller.php(486): ReflectionMethod->invokeArgs(Object(EventsController), Array)
+#8 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#9 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#10 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2013-05-13 16:27:32 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-13 16:27:33 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-13 16:27:33 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-13 16:27:36 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-13 16:27:36 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-13 16:27:51 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-13 16:27:52 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-13 16:27:53 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-13 16:27:53 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-13 16:27:53 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-13 16:28:53 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-13 16:28:53 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-13 16:29:01 Error: [MissingControllerException] Controller class ..imgController could not be found.
+Exception Attributes: array (
+  'class' => '..imgController',
+  'plugin' => NULL,
+)
+Request URL: /..img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-13 16:29:14 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-13 16:29:14 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-13 16:29:21 Error: [MissingControllerException] Controller class DrinkTequila.pngController could not be found.
+Exception Attributes: array (
+  'class' => 'DrinkTequila.pngController',
+  'plugin' => NULL,
+)
+Request URL: /DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-13 16:29:29 Error: [MissingControllerException] Controller class DrinkTequila.pngController could not be found.
+Exception Attributes: array (
+  'class' => 'DrinkTequila.pngController',
+  'plugin' => NULL,
+)
+Request URL: /DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-13 16:29:35 Error: [MissingControllerException] Controller class DrinkTequila.pngController could not be found.
+Exception Attributes: array (
+  'class' => 'DrinkTequila.pngController',
+  'plugin' => NULL,
+)
+Request URL: /DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-13 16:29:40 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-13 16:29:46 Error: [MissingControllerException] Controller class ..imgController could not be found.
+Exception Attributes: array (
+  'class' => '..imgController',
+  'plugin' => NULL,
+)
+Request URL: /..img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-13 16:29:51 Error: [MissingControllerException] Controller class .imgController could not be found.
+Exception Attributes: array (
+  'class' => '.imgController',
+  'plugin' => NULL,
+)
+Request URL: /.img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-13 16:30:34 Error: [MissingControllerException] Controller class ..imgController could not be found.
+Exception Attributes: array (
+  'class' => '..imgController',
+  'plugin' => NULL,
+)
+Request URL: /..img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-13 16:31:25 Error: [MissingControllerException] Controller class ..webrootController could not be found.
+Exception Attributes: array (
+  'class' => '..webrootController',
+  'plugin' => NULL,
+)
+Request URL: /..webroot/img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-13 16:31:26 Error: [MissingControllerException] Controller class ..webrootController could not be found.
+Exception Attributes: array (
+  'class' => '..webrootController',
+  'plugin' => NULL,
+)
+Request URL: /..webroot/img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-13 16:31:31 Error: [MissingControllerException] Controller class WebrootController could not be found.
+Exception Attributes: array (
+  'class' => 'WebrootController',
+  'plugin' => NULL,
+)
+Request URL: /webroot/img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-13 16:31:36 Error: [MissingControllerException] Controller class WebrootController could not be found.
+Exception Attributes: array (
+  'class' => 'WebrootController',
+  'plugin' => NULL,
+)
+Request URL: /webroot/img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-13 16:37:03 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-13 16:37:03 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-13 16:37:08 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-13 16:37:08 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-13 16:37:13 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-13 16:37:23 Error: [MissingControllerException] Controller class ..imgController could not be found.
+Exception Attributes: array (
+  'class' => '..imgController',
+  'plugin' => NULL,
+)
+Request URL: /..img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-13 16:37:28 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-13 16:38:33 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-13 16:38:34 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-13 16:38:34 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-13 16:38:42 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-13 16:38:42 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-13 16:38:50 Error: [MissingControllerException] Controller class ..imgController could not be found.
+Exception Attributes: array (
+  'class' => '..imgController',
+  'plugin' => NULL,
+)
+Request URL: /..img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-13 16:38:51 Error: [MissingControllerException] Controller class ..imgController could not be found.
+Exception Attributes: array (
+  'class' => '..imgController',
+  'plugin' => NULL,
+)
+Request URL: /..img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-13 16:38:58 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-13 16:38:58 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-13 16:39:16 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-13 16:39:16 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-13 16:39:16 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-13 16:39:17 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-13 16:39:17 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-13 16:39:18 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-13 16:39:18 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-13 16:39:18 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-13 16:39:19 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-13 16:39:19 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-13 16:39:20 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-13 16:39:20 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-13 16:39:20 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-14 02:01:14 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-14 02:01:16 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-14 02:01:18 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-14 02:05:00 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-14 02:19:45 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-14 02:19:58 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-14 04:09:01 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-14 04:09:03 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-14 04:10:10 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-14 04:28:11 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-14 04:28:12 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-14 04:37:38 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-14 04:37:44 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-14 04:48:28 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-14 04:48:29 Error: [MissingActionException] Action EventsController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'EventsController',
+  'action' => 'img',
+)
+Request URL: /events/img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/cakephp-2.3.3/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(EventsController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2013-05-14 04:48:35 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-14 04:50:32 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-14 04:50:35 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-14 04:59:56 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-14 05:02:44 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-14 05:07:45 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-14 05:08:39 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/DrinkTeuila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-14 05:08:39 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-14 05:08:57 Error: [MissingControllerException] Controller class CakeController could not be found.
+Exception Attributes: array (
+  'class' => 'CakeController',
+  'plugin' => NULL,
+)
+Request URL: /Cake/img/DrinkTeuila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-14 05:08:57 Error: [MissingControllerException] Controller class CakeController could not be found.
+Exception Attributes: array (
+  'class' => 'CakeController',
+  'plugin' => NULL,
+)
+Request URL: /Cake/img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-14 05:12:18 Error: [MissingControllerException] Controller class CakeController could not be found.
+Exception Attributes: array (
+  'class' => 'CakeController',
+  'plugin' => NULL,
+)
+Request URL: /Cake/img/DrinkTeuila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-14 05:12:18 Error: [MissingControllerException] Controller class CakeController could not be found.
+Exception Attributes: array (
+  'class' => 'CakeController',
+  'plugin' => NULL,
+)
+Request URL: /Cake/img/DrinkTequila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-14 05:13:38 Error: [MissingControllerException] Controller class CakeController could not be found.
+Exception Attributes: array (
+  'class' => 'CakeController',
+  'plugin' => NULL,
+)
+Request URL: /Cake/img/DrinkTeuila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-14 05:13:56 Error: [MissingControllerException] Controller class CakeController could not be found.
+Exception Attributes: array (
+  'class' => 'CakeController',
+  'plugin' => NULL,
+)
+Request URL: /Cake/img/DrinkTeuila.png
+Stack Trace:
+#0 /Applications/MAMP/htdocs/cakephp-2.3.3/app/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
